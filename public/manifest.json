@@ -1,0 +1,16 @@
+{
+  "name": "NewsFlow",
+  "short_name": "NewsFlow",
+  "description": "Your daily news digest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
